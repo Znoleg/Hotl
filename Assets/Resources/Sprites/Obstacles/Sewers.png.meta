@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: ee936471f5b8ee146b21d4da8b44b9df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3771505807089771741
+    second: Sewers_0
+  - first:
+      213: 2793119374559173857
+    second: Sewers_1
+  - first:
+      213: -592012094344452370
+    second: Sewers_2
+  - first:
+      213: -2207809999622375061
+    second: Sewers_3
+  - first:
+      213: -737450746557169920
+    second: Sewers_4
+  - first:
+      213: 3589858405929565353
+    second: Sewers_5
+  - first:
+      213: -7419966300305506325
+    second: Sewers_6
+  - first:
+      213: -6523154212784419000
+    second: Sewers_7
+  - first:
+      213: 662671020246437970
+    second: Sewers_8
+  - first:
+      213: -1394033938766411596
+    second: Sewers_9
+  - first:
+      213: -1146407715274403369
+    second: Sewers_10
+  - first:
+      213: 642560725703015311
+    second: Sewers_11
+  - first:
+      213: 7394282249946864738
+    second: Sewers_12
+  - first:
+      213: 4300048190576798966
+    second: Sewers_13
+  - first:
+      213: 8883265901202905718
+    second: Sewers_14
+  - first:
+      213: 3651399960560936209
+    second: Sewers_15
+  - first:
+      213: -4180067928133525593
+    second: Sewers_16
+  - first:
+      213: 3080915475513702886
+    second: Sewers_17
+  - first:
+      213: -5893376478143108001
+    second: Sewers_18
+  - first:
+      213: -5446496878889354411
+    second: Sewers_19
+  - first:
+      213: 2322347924647743876
+    second: Sewers_20
+  - first:
+      213: 1724491239072162753
+    second: Sewers_21
+  - first:
+      213: -8169181383349448918
+    second: Sewers_22
+  - first:
+      213: 916011195766647151
+    second: Sewers_23
+  - first:
+      213: 1140428407188147091
+    second: Sewers_24
+  - first:
+      213: 1264343141622800589
+    second: Sewers_25
+  - first:
+      213: -5123221612252668483
+    second: Sewers_26
+  - first:
+      213: 7223288272969326445
+    second: Sewers_27
+  - first:
+      213: -395454902368898683
+    second: Sewers_28
+  - first:
+      213: 7371737883213134680
+    second: Sewers_29
+  - first:
+      213: -4989417205126714461
+    second: Sewers_30
+  - first:
+      213: -6155959100482542623
+    second: Sewers_31
+  - first:
+      213: 3760995358542171004
+    second: Sewers_32
+  - first:
+      213: 2661717025343242974
+    second: Sewers_33
+  - first:
+      213: -657498964649862935
+    second: Sewers_34
+  - first:
+      213: 4855588209093330000
+    second: Sewers_35
+  - first:
+      213: 7458992195994874905
+    second: Sewers_36
+  - first:
+      213: -3652542878976628437
+    second: Sewers_37
+  - first:
+      213: -1423996796428117781
+    second: Sewers_38
+  - first:
+      213: -2457425565428990041
+    second: Sewers_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sewers_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 304
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4a8eb9c84175430800000000000000
+      internalID: 3771505807089771741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 305
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5cd7c54723c620800000000000000
+      internalID: 2793119374559173857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 305
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62dd50320c8c7f0800000000000000
+      internalID: -592012094344452370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 305
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f3f8b0884c51e0800000000000000
+      internalID: -2207809999622375061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ffc14047c04c5f0800000000000000
+      internalID: -737450746557169920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 306
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb167433db1d130800000000000000
+      internalID: 3589858405929565353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 311
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befbbe866fbf60990800000000000000
+      internalID: -7419966300305506325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f44ebfdc91975a0800000000000000
+      internalID: -6523154212784419000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501cbc28c7423900800000000000000
+      internalID: 662671020246437970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84df2c48567ace0800000000000000
+      internalID: -1394033938766411596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 267
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d15d43c1442710f0800000000000000
+      internalID: -1146407715274403369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 285
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b352a5395dae800800000000000000
+      internalID: 642560725703015311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 287
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1f0d9784cd9660800000000000000
+      internalID: 7394282249946864738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 266
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2464fb07dcab30800000000000000
+      internalID: 4300048190576798966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 241
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1a868543b74b70800000000000000
+      internalID: 8883265901202905718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 241
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152c1e0be06ca230800000000000000
+      internalID: 3651399960560936209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 247
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af1996cd5a6df5c0800000000000000
+      internalID: -4180067928133525593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 270
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97ff43d4c91ca20800000000000000
+      internalID: 3080915475513702886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 270
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c23ac4155863ea0800000000000000
+      internalID: -5893376478143108001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 269
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb68702f72a64b0800000000000000
+      internalID: -5446496878889354411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 256
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4819e751223aa3020800000000000000
+      internalID: 2322347924647743876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c36b2b25af9ee710800000000000000
+      internalID: 1724491239072162753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 254
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fc8b360dc31ae80800000000000000
+      internalID: -8169181383349448918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 254
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a3fd445356bc00800000000000000
+      internalID: 916011195766647151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 253
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc636189d93df00800000000000000
+      internalID: 1140428407188147091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 233
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e0a67369db8110800000000000000
+      internalID: 1264343141622800589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 207
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd53107619a6e8b0800000000000000
+      internalID: -5123221612252668483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd494e9664e3460800000000000000
+      internalID: 7223288272969326445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 100
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817d9b8cdf038af0800000000000000
+      internalID: -395454902368898683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b75323c8cad4660800000000000000
+      internalID: 7371737883213134680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 166
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab233cac7702cab0800000000000000
+      internalID: -4989417205126714461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a7e350d3a19aa0800000000000000
+      internalID: -6155959100482542623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 133
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b8ccb1a5db13430800000000000000
+      internalID: 3760995358542171004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2813c388150f420800000000000000
+      internalID: 2661717025343242974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89bdbdc2810e6f0800000000000000
+      internalID: -657498964649862935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054459a00c3826340800000000000000
+      internalID: 4855588209093330000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147fa002e9a38760800000000000000
+      internalID: 7458992195994874905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2927b38a9f8f4dc0800000000000000
+      internalID: -3652542878976628437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be89b935572fc3ce0800000000000000
+      internalID: -1423996796428117781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewers_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af34aed77875edd0800000000000000
+      internalID: -2457425565428990041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

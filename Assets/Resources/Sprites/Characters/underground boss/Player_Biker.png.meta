@@ -1,0 +1,3586 @@
+fileFormatVersion: 2
+guid: 1d3398d677d09a34ebac41bdb84cbffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -741145334799724641
+    second: Player_Biker_0
+  - first:
+      213: -3500134874471759380
+    second: Player_Biker_1
+  - first:
+      213: 6424534990133212685
+    second: Player_Biker_2
+  - first:
+      213: -2277304633120069586
+    second: Player_Biker_3
+  - first:
+      213: -437589085241347662
+    second: Player_Biker_4
+  - first:
+      213: -6953613046788066949
+    second: Player_Biker_5
+  - first:
+      213: -1499965171708880250
+    second: Player_Biker_6
+  - first:
+      213: 9212743899206983035
+    second: Player_Biker_7
+  - first:
+      213: -7319092422639084866
+    second: Player_Biker_8
+  - first:
+      213: 2000156129679936866
+    second: Player_Biker_9
+  - first:
+      213: 1004050339474727626
+    second: Player_Biker_10
+  - first:
+      213: -3453452777479088949
+    second: Player_Biker_11
+  - first:
+      213: 7821616001878322834
+    second: Player_Biker_12
+  - first:
+      213: 715928702038133886
+    second: Player_Biker_13
+  - first:
+      213: -2217484496568400583
+    second: Player_Biker_14
+  - first:
+      213: -8744682671204898746
+    second: Player_Biker_15
+  - first:
+      213: 1245520497751897706
+    second: Player_Biker_16
+  - first:
+      213: 6672787061960141551
+    second: Player_Biker_17
+  - first:
+      213: -3821351024293284001
+    second: Player_Biker_18
+  - first:
+      213: -6050779904860983629
+    second: Player_Biker_19
+  - first:
+      213: -1295492824794197802
+    second: Player_Biker_20
+  - first:
+      213: 4715405263442607175
+    second: Player_Biker_21
+  - first:
+      213: -4159251664281460901
+    second: Player_Biker_22
+  - first:
+      213: -3727751871552554124
+    second: Player_Biker_23
+  - first:
+      213: 2016511505540488037
+    second: Player_Biker_24
+  - first:
+      213: -8348850064057697274
+    second: Player_Biker_25
+  - first:
+      213: 6372811802111581698
+    second: Player_Biker_26
+  - first:
+      213: 3130740754816250826
+    second: Player_Biker_27
+  - first:
+      213: 4997743837455154992
+    second: Player_Biker_28
+  - first:
+      213: 6341685279695758010
+    second: Player_Biker_29
+  - first:
+      213: -8568548553422213232
+    second: Player_Biker_30
+  - first:
+      213: -1587154799484189606
+    second: Player_Biker_31
+  - first:
+      213: -7802528194736211767
+    second: Player_Biker_32
+  - first:
+      213: -2986423534006352502
+    second: Player_Biker_33
+  - first:
+      213: 1191284730172750833
+    second: Player_Biker_34
+  - first:
+      213: 1964933228559212441
+    second: Player_Biker_35
+  - first:
+      213: 5043115567520300599
+    second: Player_Biker_36
+  - first:
+      213: -2849164947981887903
+    second: Player_Biker_37
+  - first:
+      213: 1382843938289580726
+    second: Player_Biker_38
+  - first:
+      213: -4349446809735248990
+    second: Player_Biker_39
+  - first:
+      213: -7776503832771682303
+    second: Player_Biker_40
+  - first:
+      213: -8381004020702475882
+    second: Player_Biker_41
+  - first:
+      213: -8592349354944073611
+    second: Player_Biker_42
+  - first:
+      213: -2388602062959559070
+    second: Player_Biker_43
+  - first:
+      213: -3072028479531049779
+    second: Player_Biker_44
+  - first:
+      213: 2084689767756480718
+    second: Player_Biker_45
+  - first:
+      213: 1460520772460676462
+    second: Player_Biker_46
+  - first:
+      213: -5389188126542210526
+    second: Player_Biker_47
+  - first:
+      213: -8379448889735542569
+    second: Player_Biker_48
+  - first:
+      213: -4934360179282958482
+    second: Player_Biker_49
+  - first:
+      213: -6005522928370638888
+    second: Player_Biker_50
+  - first:
+      213: 2686148861084459156
+    second: Player_Biker_51
+  - first:
+      213: 369568552712339058
+    second: Player_Biker_52
+  - first:
+      213: 8396322836369827759
+    second: Player_Biker_53
+  - first:
+      213: 3979358480135853563
+    second: Player_Biker_54
+  - first:
+      213: 908846927308422299
+    second: Player_Biker_55
+  - first:
+      213: -178480316044226216
+    second: Player_Biker_56
+  - first:
+      213: 6805368726554318839
+    second: Player_Biker_57
+  - first:
+      213: 3310053369300773404
+    second: Player_Biker_58
+  - first:
+      213: 6097509443494342914
+    second: Player_Biker_59
+  - first:
+      213: -846363350083161886
+    second: Player_Biker_60
+  - first:
+      213: -5614680039948163812
+    second: Player_Biker_61
+  - first:
+      213: 6257552965474198435
+    second: Player_Biker_62
+  - first:
+      213: -3607293793925561323
+    second: Player_Biker_63
+  - first:
+      213: 7557069851541383730
+    second: Player_Biker_64
+  - first:
+      213: 7909306715662659547
+    second: Player_Biker_65
+  - first:
+      213: 6279601302881869305
+    second: Player_Biker_66
+  - first:
+      213: 4491628912769939545
+    second: Player_Biker_67
+  - first:
+      213: 6088189522722046989
+    second: Player_Biker_68
+  - first:
+      213: -5204015921050627199
+    second: Player_Biker_69
+  - first:
+      213: 1771327769146708546
+    second: Player_Biker_70
+  - first:
+      213: -4871762108197933407
+    second: Player_Biker_71
+  - first:
+      213: -4175584916518164562
+    second: Player_Biker_72
+  - first:
+      213: 4810272955400033179
+    second: Player_Biker_73
+  - first:
+      213: 993852271679284169
+    second: Player_Biker_74
+  - first:
+      213: 8321650331675589483
+    second: Player_Biker_75
+  - first:
+      213: -1035493734406458039
+    second: Player_Biker_76
+  - first:
+      213: 1495138618882782963
+    second: Player_Biker_77
+  - first:
+      213: 6588718206930909480
+    second: Player_Biker_78
+  - first:
+      213: -5941541167665122802
+    second: Player_Biker_79
+  - first:
+      213: -3495885488484432132
+    second: Player_Biker_80
+  - first:
+      213: 1615109708644761651
+    second: Player_Biker_81
+  - first:
+      213: 1915408013542283098
+    second: Player_Biker_82
+  - first:
+      213: 8618181104441761304
+    second: Player_Biker_83
+  - first:
+      213: -4967936832852842646
+    second: Player_Biker_84
+  - first:
+      213: -5843071075751109323
+    second: Player_Biker_85
+  - first:
+      213: -7466328596411596026
+    second: Player_Biker_86
+  - first:
+      213: 2288020095163067431
+    second: Player_Biker_87
+  - first:
+      213: -9164130321151735434
+    second: Player_Biker_88
+  - first:
+      213: -7715374647981965275
+    second: Player_Biker_89
+  - first:
+      213: -80660020768687776
+    second: Player_Biker_90
+  - first:
+      213: -6957535910597855319
+    second: Player_Biker_91
+  - first:
+      213: 9065189599988301187
+    second: Player_Biker_92
+  - first:
+      213: 4020177750848460096
+    second: Player_Biker_93
+  - first:
+      213: 4548537054181689828
+    second: Player_Biker_94
+  - first:
+      213: -952092101246992718
+    second: Player_Biker_95
+  - first:
+      213: -1407539803251821695
+    second: Player_Biker_96
+  - first:
+      213: 309548724511832960
+    second: Player_Biker_97
+  - first:
+      213: -2137287600133769038
+    second: Player_Biker_98
+  - first:
+      213: -1309428342106422616
+    second: Player_Biker_99
+  - first:
+      213: -895830624974608058
+    second: Player_Biker_100
+  - first:
+      213: 6588815834683138244
+    second: Player_Biker_101
+  - first:
+      213: 6388941447836138463
+    second: Player_Biker_102
+  - first:
+      213: -6205326278515226043
+    second: Player_Biker_103
+  - first:
+      213: -5912573022473015968
+    second: Player_Biker_104
+  - first:
+      213: -5998418166019939704
+    second: Player_Biker_105
+  - first:
+      213: -6099848014832098731
+    second: Player_Biker_106
+  - first:
+      213: 3052989155949775332
+    second: Player_Biker_107
+  - first:
+      213: 6365371257349414551
+    second: Player_Biker_108
+  - first:
+      213: -420299132413267316
+    second: Player_Biker_109
+  - first:
+      213: -4284894189690519982
+    second: Player_Biker_110
+  - first:
+      213: -3919410700796002295
+    second: Player_Biker_111
+  - first:
+      213: 5879005165916248730
+    second: Player_Biker_112
+  - first:
+      213: -5013724746999670563
+    second: Player_Biker_113
+  - first:
+      213: 1456258997183209271
+    second: Player_Biker_114
+  - first:
+      213: 4209201980251442044
+    second: Player_Biker_115
+  - first:
+      213: 3763194932866143037
+    second: Player_Biker_116
+  - first:
+      213: 275772075176844072
+    second: Player_Biker_117
+  - first:
+      213: 7460336659722034868
+    second: Player_Biker_118
+  - first:
+      213: -9126232355481060954
+    second: Player_Biker_119
+  - first:
+      213: 5635001972126815007
+    second: Player_Biker_120
+  - first:
+      213: -1996234444162566770
+    second: Player_Biker_121
+  - first:
+      213: -2295011142611891959
+    second: Player_Biker_122
+  - first:
+      213: -3932287244331300164
+    second: Player_Biker_123
+  - first:
+      213: 6844480362802862173
+    second: Player_Biker_124
+  - first:
+      213: -3596784013456334920
+    second: Player_Biker_125
+  - first:
+      213: 2744269476115043102
+    second: Player_Biker_126
+  - first:
+      213: -2291370293315027567
+    second: Player_Biker_127
+  - first:
+      213: -4301551911064174626
+    second: Player_Biker_128
+  - first:
+      213: -7270365551694546812
+    second: Player_Biker_129
+  - first:
+      213: -2191344850518348465
+    second: Player_Biker_130
+  - first:
+      213: -2405776062949595997
+    second: Player_Biker_131
+  - first:
+      213: 8769654422034089951
+    second: Player_Biker_132
+  - first:
+      213: -7473571192146809196
+    second: Player_Biker_133
+  - first:
+      213: 3200811209870072149
+    second: Player_Biker_134
+  - first:
+      213: -8156482002332197926
+    second: Player_Biker_135
+  - first:
+      213: -5641816384612346712
+    second: Player_Biker_136
+  - first:
+      213: 5152631497456606638
+    second: Player_Biker_137
+  - first:
+      213: -4721276279703747416
+    second: Player_Biker_138
+  - first:
+      213: -1859847289585235559
+    second: Player_Biker_139
+  - first:
+      213: -2687490730090178223
+    second: Player_Biker_140
+  - first:
+      213: 2479649158262854753
+    second: Player_Biker_141
+  - first:
+      213: 7346260714815593824
+    second: Player_Biker_142
+  - first:
+      213: 7409907663103722897
+    second: Player_Biker_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Biker_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 410
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f0358ae3ce6b5f0800000000000000
+      internalID: -741145334799724641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 408
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1872d40e50d6fc0800000000000000
+      internalID: -3500134874471759380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 414
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0635fde888882950800000000000000
+      internalID: 6424534990133212685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 397
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e68970836560e0800000000000000
+      internalID: -2277304633120069586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 406
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f990ab0f5de9f0800000000000000
+      internalID: -437589085241347662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 403
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71fca896cdcf7f90800000000000000
+      internalID: -6953613046788066949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 421
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a95dc9f9d0f2be0800000000000000
+      internalID: -1499965171708880250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 419
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d11eed3cd3adf70800000000000000
+      internalID: 9212743899206983035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1856483c5d6a90800000000000000
+      internalID: -7319092422639084866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d84e4176bf1cb10800000000000000
+      internalID: 2000156129679936866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 404
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2600dc67a1fed00800000000000000
+      internalID: 1004050339474727626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d5cdfefed210d0800000000000000
+      internalID: -3453452777479088949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee7712056fb8c60800000000000000
+      internalID: 7821616001878322834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 404
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c4d718c5d7fe900800000000000000
+      internalID: 715928702038133886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 404
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ca1f5999e931e0800000000000000
+      internalID: -2217484496568400583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648615d1175a4a680800000000000000
+      internalID: -8744682671204898746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6638fc2b4af84110800000000000000
+      internalID: 1245520497751897706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae4f99a708a9c50800000000000000
+      internalID: 6672787061960141551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f577ce26d75d7fac0800000000000000
+      internalID: -3821351024293284001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be60b42cbf470ca0800000000000000
+      internalID: -6050779904860983629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 393
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d01311c32c750ee0800000000000000
+      internalID: -1295492824794197802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 347
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf0839a1c707140800000000000000
+      internalID: 4715405263442607175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 354
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1d03e5ae5746c0800000000000000
+      internalID: -4159251664281460901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 354
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bff4d5c6d544cc0800000000000000
+      internalID: -3727751871552554124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 357
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9a35c7861cfb10800000000000000
+      internalID: 2016511505540488037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 354
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf7d0d91de22c80800000000000000
+      internalID: -8348850064057697274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 357
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1745c196c07850800000000000000
+      internalID: 6372811802111581698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 357
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac339ae0120a27b20800000000000000
+      internalID: 3130740754816250826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 357
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f79ed7a8d8b5540800000000000000
+      internalID: 4997743837455154992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 357
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2e6958921320850800000000000000
+      internalID: 6341685279695758010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 357
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fe4902d76661980800000000000000
+      internalID: -8568548553422213232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5440357e1b49f9e0800000000000000
+      internalID: -1587154799484189606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 316
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c837ca42f9d7b390800000000000000
+      internalID: -7802528194736211767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854faa5e971e86d0800000000000000
+      internalID: -2986423534006352502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 311
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb3b40862b488010800000000000000
+      internalID: 1191284730172750833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 318
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f12a75c58d44b10800000000000000
+      internalID: 1964933228559212441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_36
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 318
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3a4b93eebcf540800000000000000
+      internalID: 5043115567520300599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 318
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669b09439bb578d0800000000000000
+      internalID: -2849164947981887903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_38
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 318
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7d893c39d03310800000000000000
+      internalID: 1382843938289580726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 278
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a34640cb29a3a3c0800000000000000
+      internalID: -4349446809735248990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 270
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002e2d37fe441490800000000000000
+      internalID: -7776503832771682303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 275
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69988e46f31b0bb80800000000000000
+      internalID: -8381004020702475882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 277
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570708039c7d1c880800000000000000
+      internalID: -8592349354944073611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 269
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb78f341bf9ded0800000000000000
+      internalID: -2388602062959559070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 282
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc1ba9cf56fd55d0800000000000000
+      internalID: -3072028479531049779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 282
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec044027c4e4eec10800000000000000
+      internalID: 2084689767756480718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 282
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65099587efc44410800000000000000
+      internalID: 1460520772460676462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 282
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad2b9b3f1c535b0800000000000000
+      internalID: -5389188126542210526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_48
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 282
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d885c981a736bb80800000000000000
+      internalID: -8379448889735542569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 236
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67a1007f81a58bb0800000000000000
+      internalID: -4934360179282958482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 234
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df110c17b818aca0800000000000000
+      internalID: -6005522928370638888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 234
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49062c6482e174520800000000000000
+      internalID: 2686148861084459156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 241
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef29004a8f02500800000000000000
+      internalID: 369568552712339058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 241
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e251522bb58470800000000000000
+      internalID: 8396322836369827759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 241
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf59f624475893730800000000000000
+      internalID: 3979358480135853563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 241
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7c61177fdc9c00800000000000000
+      internalID: 908846927308422299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 241
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851d8c22919e58df0800000000000000
+      internalID: -178480316044226216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 237
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f792d7ecc6817e50800000000000000
+      internalID: 6805368726554318839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae1c0800cafed20800000000000000
+      internalID: 3310053369300773404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 195
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f11a6884be9450800000000000000
+      internalID: 6097509443494342914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 193
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0326f640d1144f0800000000000000
+      internalID: -846363350083161886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_61
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 193
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e9636046a412b0800000000000000
+      internalID: -5614680039948163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a32846a44b47d650800000000000000
+      internalID: 6257552965474198435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514889c186150fdc0800000000000000
+      internalID: -3607293793925561323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a20fbadfa10e860800000000000000
+      internalID: 7557069851541383730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2fa67d8083cd60800000000000000
+      internalID: 7909306715662659547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd9a5d3d10a52750800000000000000
+      internalID: 6279601302881869305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 203
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b680d2b8755e30800000000000000
+      internalID: 4491628912769939545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_68
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044a134d189d7450800000000000000
+      internalID: 6088189522722046989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_69
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183dc44871f97c7b0800000000000000
+      internalID: -5204015921050627199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24256cc9835059810800000000000000
+      internalID: 1771327769146708546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 169
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae67ae9c26046cb0800000000000000
+      internalID: -4871762108197933407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_72
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 169
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a47144a75d06c0800000000000000
+      internalID: -4175584916518164562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 181
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93994b54c581c240800000000000000
+      internalID: 4810272955400033179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 181
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a8ac106fdacd00800000000000000
+      internalID: 993852271679284169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_75
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 181
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf88cf2e07c7370800000000000000
+      internalID: 8321650331675589483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_76
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 181
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9457f815fef21a1f0800000000000000
+      internalID: -1035493734406458039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 181
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6f97cf6accfb410800000000000000
+      internalID: 1495138618882782963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 154
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f349fc44df6b50800000000000000
+      internalID: 6588718206930909480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 149
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f5f2a9c76b8da0800000000000000
+      internalID: -5941541167665122802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf641739bae1c7fc0800000000000000
+      internalID: -3495885488484432132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 149
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304e0909b50a6610800000000000000
+      internalID: 1615109708644761651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 174
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57df17a075e49a10800000000000000
+      internalID: 1915408013542283098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e1c3cad0ee99770800000000000000
+      internalID: 8618181104441761304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 174
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a672a3395c75e0bb0800000000000000
+      internalID: -4967936832852842646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_85
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 174
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dde7480dd39eea0800000000000000
+      internalID: -5843071075751109323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_86
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603cb8a23b5426890800000000000000
+      internalID: -7466328596411596026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c6623772ea0cf10800000000000000
+      internalID: 2288020095163067431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 135
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794d5cc60872d080800000000000000
+      internalID: -9164130321151735434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 137
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200bfda2ab7de490800000000000000
+      internalID: -7715374647981965275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 137
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b182732071eef0800000000000000
+      internalID: -80660020768687776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_91
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 149
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a77ac0b3fdd17f90800000000000000
+      internalID: -6957535910597855319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_92
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 149
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3ed869e50ecd70800000000000000
+      internalID: 9065189599988301187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04550455d5a8ac730800000000000000
+      internalID: 4020177750848460096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_94
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 135
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e983320a56af1f30800000000000000
+      internalID: 4548537054181689828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_95
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 140
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb7bf374d79c2f0800000000000000
+      internalID: -952092101246992718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_96
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 140
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b3f3a10a677ce0800000000000000
+      internalID: -1407539803251821695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf335ccecbb4400800000000000000
+      internalID: 309548724511832960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_98
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 110
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8fd236044d652e0800000000000000
+      internalID: -2137287600133769038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_99
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a20be94cd9f3dde0800000000000000
+      internalID: -1309428342106422616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_100
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 105
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e87bface5193f0800000000000000
+      internalID: -895830624974608058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 102
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e1c4b71d207b50800000000000000
+      internalID: 6588815834683138244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_102
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 103
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbfa0195641aa850800000000000000
+      internalID: 6388941447836138463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_103
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 103
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a04bd70a042e9a0800000000000000
+      internalID: -6205326278515226043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_104
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d20f6892252fda0800000000000000
+      internalID: -5912573022473015968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_105
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 102
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a120857651cca0800000000000000
+      internalID: -5998418166019939704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_106
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 103
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552af048c8cf85ba0800000000000000
+      internalID: -6099848014832098731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_107
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 103
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9818f36756e5a20800000000000000
+      internalID: 3052989155949775332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_108
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 105
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1bc1fe67565850800000000000000
+      internalID: 6365371257349414551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c823a197a2cca2af0800000000000000
+      internalID: -420299132413267316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_110
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7c53df6ff884c0800000000000000
+      internalID: -4284894189690519982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_111
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900803acbb47b99c0800000000000000
+      internalID: -3919410700796002295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9adf13dc0c669150800000000000000
+      internalID: 5879005165916248730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8df7d08ebab6ab0800000000000000
+      internalID: -5013724746999670563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_114
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f5214a7dba53410800000000000000
+      internalID: 1456258997183209271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_115
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 69
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b02c456e61a6a30800000000000000
+      internalID: 4209201980251442044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_116
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 70
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33590a6add893430800000000000000
+      internalID: 3763194932866143037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_117
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 83
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b53e3cd3db3d300800000000000000
+      internalID: 275772075176844072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_118
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be5e8b5aa0788760800000000000000
+      internalID: 7460336659722034868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 70
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ffd9860c195180800000000000000
+      internalID: -9126232355481060954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 72
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f139e39207c833e40800000000000000
+      internalID: 5635001972126815007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_121
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 70
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e857a4b7953fb44e0800000000000000
+      internalID: -1996234444162566770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_122
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 74
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090e09768b7620e0800000000000000
+      internalID: -2295011142611891959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_123
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 26
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba45ded595bd69c0800000000000000
+      internalID: -3932287244331300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_124
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58500950aa7cfe50800000000000000
+      internalID: 6844480362802862173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_125
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf91201ff7a51ec0800000000000000
+      internalID: -3596784013456334920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_126
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 23
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d8cb7c8a951620800000000000000
+      internalID: 2744269476115043102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_127
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d3312cbda6330e0800000000000000
+      internalID: -2291370293315027567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_128
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 37
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edffd16d351dd44c0800000000000000
+      internalID: -4301551911064174626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48872000d097a1b90800000000000000
+      internalID: -7270365551694546812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_130
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 50
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de87cf777c691e0800000000000000
+      internalID: -2191344850518348465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a460c6ca67fc9ed0800000000000000
+      internalID: -2405776062949595997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 37
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78644bb3214b970800000000000000
+      internalID: 8769654422034089951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_133
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2f70f89a884890800000000000000
+      internalID: -7473571192146809196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_134
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 41
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d46536d09b6c20800000000000000
+      internalID: 3200811209870072149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb5f1275da5ece80800000000000000
+      internalID: -8156482002332197926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d33bc3ed34b1b0800000000000000
+      internalID: -5641816384612346712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_137
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd3601c03d18740800000000000000
+      internalID: 5152631497456606638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c7cdec38aa7eb0800000000000000
+      internalID: -4721276279703747416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998cc77ebe7036e0800000000000000
+      internalID: -1859847289585235559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_140
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d1df7b6d14bad0800000000000000
+      internalID: -2687490730090178223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_141
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1649add85cb796220800000000000000
+      internalID: 2479649158262854753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_142
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9dfda23923f560800000000000000
+      internalID: 7346260714815593824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Biker_143
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950ebd92c745d660800000000000000
+      internalID: 7409907663103722897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

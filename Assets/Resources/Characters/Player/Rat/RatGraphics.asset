@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3e27c61dcaf0a4384010cd706f5091, type: 3}
+  m_Name: RatGraphics
+  m_EditorClassIdentifier: 
+  _graphics:
+    ChillSprite: {fileID: -7792159650000440110, guid: 11c1d5240f8a33e4d9485bea10ecf01d,
+      type: 3}
+    CorpsePrefab: {fileID: 3041179006156355847, guid: a53b9356f1e9ab74688231cc8f4eb780,
+      type: 3}
+    InStunSprites:
+    - StunStatus: 0
+      StatusSprites: []
+    - StunStatus: 0
+      StatusSprites: []
+    GunSprites:
+    - gunType: 0
+      walkSprites:
+      - {fileID: -7792159650000440110, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -2201249712630838333, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 4399395573436851859, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 3513622426976666541, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 584150204288289789, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 4674321425269179911, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 7313068573052959813, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -3618179937743826962, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      sprites:
+      - {fileID: 3680502609546374861, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -1205624285528667010, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5690281961412402847, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 7338679920456961120, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -8175314361467440552, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -8175314361467440552, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 7338679920456961120, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5690281961412402847, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -1205624285528667010, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 3680502609546374861, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      attackSprite: 4
+    - gunType: 1
+      walkSprites:
+      - {fileID: -2279860916817793883, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -1558437910600223099, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -6518811990260628025, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -3347167961157952997, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5155831091985491006, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 4277382541103399530, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 8998958717435085954, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -2372356624975171425, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      sprites:
+      - {fileID: 2628473730730745656, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -4590704165898554252, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -8836352022385994639, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -6679175138711157782, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -3846717027051125747, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5539289015973105471, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 3575637156065158065, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      attackSprite: 5
+    - gunType: 3
+      walkSprites:
+      - {fileID: -6494766647751078588, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 6440704777811544061, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 9216192015097879667, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -9097391214180845551, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -3058270966650898413, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 4949600522363892976, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      sprites:
+      - {fileID: -6494766647751078588, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5958390568670450600, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      attackSprite: 1
+    - gunType: 4
+      walkSprites:
+      - {fileID: 1529097839311169426, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5865821213159494727, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 7445386717998423836, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -3800226842586841915, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5637016007138751744, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 6740023400337826, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5475663794052689547, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -7542717319550104957, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      sprites:
+      - {fileID: 1529097839311169426, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 6124458235996312750, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      attackSprite: 1
+    - gunType: 5
+      walkSprites:
+      - {fileID: 5531876247189223507, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 2690530050230260720, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -7133887492012216610, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 5519935416448083291, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 2208200013191555144, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 7071199585393783604, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 4506777143695209636, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 3274816572543071107, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      sprites:
+      - {fileID: 5531876247189223507, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: -6220238139479502582, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      - {fileID: 8387376784291323298, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+      attackSprite: 1
+  _gunHolderStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+  _torsoAnimationStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+    _sprites: []
+  _legAnimationStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+    _sprites:
+    - {fileID: 428567302644323342, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 2610549409659812396, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: -8416253038362136079, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: -4478933207255025221, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: -8416253038362136079, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 2610549409659812396, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 428567302644323342, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 21300000, guid: aaff4ef782c4c854eae20987170c9f36, type: 3}
+    - {fileID: -2829411869027949365, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 1033700914670599859, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: -4878300675168032771, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 2224922585747184809, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: -4878300675168032771, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 1033700914670599859, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: -2829411869027949365, guid: 11c1d5240f8a33e4d9485bea10ecf01d, type: 3}
+    - {fileID: 21300000, guid: aaff4ef782c4c854eae20987170c9f36, type: 3}

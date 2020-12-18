@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 8cc0a34e120f5a946a8564ee203b402a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1192500837479264728
+    second: PrisonObstacles_0
+  - first:
+      213: -6445031042437419651
+    second: PrisonObstacles_1
+  - first:
+      213: 7555480440598746063
+    second: PrisonObstacles_2
+  - first:
+      213: 6002480107598204796
+    second: PrisonObstacles_3
+  - first:
+      213: 8106037387184957524
+    second: PrisonObstacles_4
+  - first:
+      213: 419658714067968765
+    second: PrisonObstacles_5
+  - first:
+      213: 1341930966510393440
+    second: PrisonObstacles_6
+  - first:
+      213: -7778322659847638926
+    second: PrisonObstacles_7
+  - first:
+      213: -6844395670903222892
+    second: PrisonObstacles_8
+  - first:
+      213: 7942442159359336662
+    second: PrisonObstacles_9
+  - first:
+      213: -8772775903002936375
+    second: PrisonObstacles_10
+  - first:
+      213: 9071705490420685377
+    second: PrisonObstacles_11
+  - first:
+      213: -4832303378841997474
+    second: PrisonObstacles_12
+  - first:
+      213: -284468772733147004
+    second: PrisonObstacles_13
+  - first:
+      213: -5836848835393737935
+    second: PrisonObstacles_14
+  - first:
+      213: 4306938281400159414
+    second: PrisonObstacles_15
+  - first:
+      213: -2019093547183903290
+    second: PrisonObstacles_16
+  - first:
+      213: 4788975786290796219
+    second: PrisonObstacles_17
+  - first:
+      213: 5729216560597531537
+    second: PrisonObstacles_18
+  - first:
+      213: 5478209489337657701
+    second: PrisonObstacles_19
+  - first:
+      213: -4757306704857872859
+    second: PrisonObstacles_20
+  - first:
+      213: 7862055874653564200
+    second: PrisonObstacles_21
+  - first:
+      213: 2376933167951736713
+    second: PrisonObstacles_22
+  - first:
+      213: -7671239150406896356
+    second: PrisonObstacles_23
+  - first:
+      213: -8624080387719526406
+    second: PrisonObstacles_24
+  - first:
+      213: -9213414465069142451
+    second: PrisonObstacles_25
+  - first:
+      213: 7377570299426543028
+    second: PrisonObstacles_26
+  - first:
+      213: 7740620793065221066
+    second: PrisonObstacles_27
+  - first:
+      213: 941306172719454935
+    second: PrisonObstacles_28
+  - first:
+      213: 3148890948851275985
+    second: PrisonObstacles_29
+  - first:
+      213: 1535050115535945584
+    second: PrisonObstacles_30
+  - first:
+      213: 7274666129695613742
+    second: PrisonObstacles_31
+  - first:
+      213: -7388340068221079571
+    second: PrisonObstacles_32
+  - first:
+      213: -893800221111441677
+    second: PrisonObstacles_33
+  - first:
+      213: 5580688291308669933
+    second: PrisonObstacles_34
+  - first:
+      213: -8755158548931894159
+    second: PrisonObstacles_35
+  - first:
+      213: 6250491046321703321
+    second: PrisonObstacles_36
+  - first:
+      213: 7426688058048215661
+    second: PrisonObstacles_37
+  - first:
+      213: 6631430581086778293
+    second: PrisonObstacles_38
+  - first:
+      213: -5854990027030775923
+    second: PrisonObstacles_39
+  - first:
+      213: -4949971581707747599
+    second: PrisonObstacles_40
+  - first:
+      213: -3274588320424633955
+    second: PrisonObstacles_41
+  - first:
+      213: -3277345614296410223
+    second: PrisonObstacles_42
+  - first:
+      213: -7409912839739968717
+    second: PrisonObstacles_43
+  - first:
+      213: 5202421449154445106
+    second: PrisonObstacles_44
+  - first:
+      213: -8694026992977449405
+    second: PrisonObstacles_45
+  - first:
+      213: -5333235739645585679
+    second: PrisonObstacles_46
+  - first:
+      213: -7524181307443208688
+    second: PrisonObstacles_47
+  - first:
+      213: -7918088468047429549
+    second: PrisonObstacles_48
+  - first:
+      213: 3493508104543227268
+    second: PrisonObstacles_49
+  - first:
+      213: 3008165839217321438
+    second: PrisonObstacles_50
+  - first:
+      213: 3102101419440036171
+    second: PrisonObstacles_51
+  - first:
+      213: -5653450562938641111
+    second: PrisonObstacles_52
+  - first:
+      213: 6174720774226661027
+    second: PrisonObstacles_53
+  - first:
+      213: -2083079156700702564
+    second: PrisonObstacles_54
+  - first:
+      213: -5098959015934595424
+    second: PrisonObstacles_55
+  - first:
+      213: 3114126716372587228
+    second: PrisonObstacles_56
+  - first:
+      213: -2960854875017774977
+    second: PrisonObstacles_57
+  - first:
+      213: -775561448561233541
+    second: PrisonObstacles_58
+  - first:
+      213: -3932340473066178444
+    second: PrisonObstacles_59
+  - first:
+      213: 7075064534440524715
+    second: PrisonObstacles_60
+  - first:
+      213: 7364014431891852302
+    second: PrisonObstacles_61
+  - first:
+      213: 8301802211305620648
+    second: PrisonObstacles_62
+  - first:
+      213: -3900162852767680810
+    second: PrisonObstacles_63
+  - first:
+      213: 7919105389451498245
+    second: PrisonObstacles_64
+  - first:
+      213: 5218254866929458397
+    second: PrisonObstacles_65
+  - first:
+      213: 6094275017387894713
+    second: PrisonObstacles_66
+  - first:
+      213: -1397486668233949120
+    second: PrisonObstacles_67
+  - first:
+      213: 4203405689224972061
+    second: PrisonObstacles_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrisonObstacles_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e41b37ec2637fe0800000000000000
+      internalID: -1192500837479264728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 218
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de6250a66ae86a0800000000000000
+      internalID: -6445031042437419651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 227
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3dc491e657ad860800000000000000
+      internalID: 7555480440598746063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 237
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4db8fad71d4350800000000000000
+      internalID: 6002480107598204796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 237
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e1375e0e6e7070800000000000000
+      internalID: 8106037387184957524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 227
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22be2806de2d500800000000000000
+      internalID: 419658714067968765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 173
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d2fbaa1f7f9210800000000000000
+      internalID: 1341930966510393440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 180
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f86f80c8dd0490800000000000000
+      internalID: -7778322659847638926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d87958662d301a0800000000000000
+      internalID: -6844395670903222892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 220
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d023b52019393e60800000000000000
+      internalID: 7942442159359336662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 205
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb376fdbc6d04680800000000000000
+      internalID: -8772775903002936375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 219
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5c7f541c25ed70800000000000000
+      internalID: 9071705490420685377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 205
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe339fda530fcb0800000000000000
+      internalID: -4832303378841997474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 205
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ac8b882d5d0cf0800000000000000
+      internalID: -284468772733147004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b24beb8e85ffea0800000000000000
+      internalID: -5836848835393737935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 205
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc436c3c8155cb30800000000000000
+      internalID: 4306938281400159414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cde1dfcd1dbaf3e0800000000000000
+      internalID: -2019093547183903290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 220
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65fc3ca1cd57240800000000000000
+      internalID: 4788975786290796219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b73bf6b14428f40800000000000000
+      internalID: 5729216560597531537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 189
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56925297182860c40800000000000000
+      internalID: 5478209489337657701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526cc59d1c6aafdb0800000000000000
+      internalID: -4757306704857872859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 191
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82daffcb922ab1d60800000000000000
+      internalID: 7862055874653564200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6b9a6f109cf020800000000000000
+      internalID: 2376933167951736713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 187
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157decf2a84a8590800000000000000
+      internalID: -7671239150406896356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 187
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78097649c115880800000000000000
+      internalID: -8624080387719526406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eab19db50632080800000000000000
+      internalID: -9213414465069142451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b59aca6915626660800000000000000
+      internalID: 7377570299426543028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 189
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba7a789953c6b60800000000000000
+      internalID: 7740620793065221066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 189
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da53d11af0301d00800000000000000
+      internalID: 941306172719454935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d819ba62ab13bb20800000000000000
+      internalID: 3148890948851275985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f31f072f79d4510800000000000000
+      internalID: 1535050115535945584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 177
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a2185d4ec4f460800000000000000
+      internalID: 7274666129695613742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 180
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa5e16ad7577990800000000000000
+      internalID: -7388340068221079571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6ac783f659893f0800000000000000
+      internalID: -893800221111441677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb82a5ee66927d40800000000000000
+      internalID: 5580688291308669933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a0b2cfad6f7680800000000000000
+      internalID: -8755158548931894159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 172
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c3c77d743eb650800000000000000
+      internalID: 6250491046321703321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a7995c075e01760800000000000000
+      internalID: 7426688058048215661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 172
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f65a8af2970c50800000000000000
+      internalID: 6631430581086778293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87306b6795eebea0800000000000000
+      internalID: -5854990027030775923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 146
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef700921b2e4bb0800000000000000
+      internalID: -4949971581707747599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 155
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995277a5435e82d0800000000000000
+      internalID: -3274588320424633955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979da527878482d0800000000000000
+      internalID: -3277345614296410223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 156
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33371ba1883ba2990800000000000000
+      internalID: -7409912839739968717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 155
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f39b09eb6b23840800000000000000
+      internalID: 5202421449154445106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eebe7438c985780800000000000000
+      internalID: -8694026992977449405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 140
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d10bf95a8cf5b0800000000000000
+      internalID: -5333235739645585679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 139
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e963837fcb49790800000000000000
+      internalID: -7524181307443208688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 139
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508ae97d7c4d1290800000000000000
+      internalID: -7918088468047429549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 140
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4f379c1f6b7030800000000000000
+      internalID: 3493508104543227268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 147
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5630094e62fb920800000000000000
+      internalID: 3008165839217321438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 114
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4955fa2ec0ec0b20800000000000000
+      internalID: 3102101419440036171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 141
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9256fc09aa8ea81b0800000000000000
+      internalID: -5653450562938641111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 141
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae410f34d301b550800000000000000
+      internalID: 6174720774226661027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 85
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9895d92b8a6713e0800000000000000
+      internalID: -2083079156700702564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae61fa5acbdc39b0800000000000000
+      internalID: -5098959015934595424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd211facfb9973b20800000000000000
+      internalID: 3114126716372587228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f41fad2ee8e6d0800000000000000
+      internalID: -2960854875017774977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 87
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71350db8f6ac35f0800000000000000
+      internalID: -775561448561233541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 89
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478bff69c258d69c0800000000000000
+      internalID: -3932340473066178444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babba4275bdaf2260800000000000000
+      internalID: 7075064534440524715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 55
+        width: 144
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c83cd0c1c323660800000000000000
+      internalID: 7364014431891852302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 25
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a48c68502de53370800000000000000
+      internalID: 8301802211305620648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6bb92ac86dfd9c0800000000000000
+      internalID: -3900162852767680810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503532df46056ed60800000000000000
+      internalID: 7919105389451498245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 26
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc98ca6727fa6840800000000000000
+      internalID: 5218254866929458397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_66
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 29
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b761f6e6d6339450800000000000000
+      internalID: 6094275017387894713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_67
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040429987412b9ce0800000000000000
+      internalID: -1397486668233949120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrisonObstacles_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 184
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d174c19243f755a30800000000000000
+      internalID: 4203405689224972061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

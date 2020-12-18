@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3e27c61dcaf0a4384010cd706f5091, type: 3}
+  m_Name: PigButcherGraphics
+  m_EditorClassIdentifier: 
+  _graphics:
+    ChillSprite: {fileID: 0}
+    CorpsePrefab: {fileID: 0}
+    InStunSprites:
+      Floor: []
+      Wall: []
+    GunSprites: []
+  _gunHolderStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+  _torsoAnimationStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+    _sprites: []
+  _legAnimationStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+    _sprites: []
+  _stunSetterStats:
+    _animDelay: 0.09
+    _finishOnStop: 1

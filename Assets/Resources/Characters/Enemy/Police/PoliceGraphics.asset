@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc7fd3b78c3915849a0fb5dd5e864163, type: 3}
+  m_Name: PoliceGraphics
+  m_EditorClassIdentifier: 
+  _graphics:
+    ChillSprite: {fileID: 4270017423035565346, guid: 71d50527776d89645acc2022daf75300,
+      type: 3}
+    CorpsePrefab: {fileID: 4908065077705190769, guid: 6524d7238a05a8f4fa4ffa23b9187a61,
+      type: 3}
+    InStunSprites:
+    - StunStatus: 0
+      StatusSprites:
+      - {fileID: 4531744494331176062, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -4037763616488825854, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -4905606703935651729, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 969093629749716711, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 6839182929884828838, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - StunStatus: 1
+      StatusSprites:
+      - {fileID: -2205417044089281591, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 3983108719920479878, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 106574494711504953, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -8941612940948946614, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    GunSprites:
+    - gunType: 2
+      walkSprites:
+      - {fileID: 8177615468689990889, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -8176877578183508595, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 5790314852093912776, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 6896636222950117727, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -7106368817899879122, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -7154847734387594504, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 880376973544715105, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      sprites:
+      - {fileID: 4040129562191267387, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 3314217969317217906, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -5261712912242921007, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -5268059012340825039, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 1431609850656258472, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 3039677329951951003, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 5268346033169964364, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -7950712633557326747, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      attackSprite: 5
+    - gunType: 3
+      walkSprites:
+      - {fileID: 3030942744862385949, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -9010191738345983212, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 1868665894999244932, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 667073982064579358, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -1830180612697246184, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -4450194308276193735, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -215117598194635387, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      sprites:
+      - {fileID: 6662812590153469658, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -2123351489427630007, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      attackSprite: 2
+    - gunType: 5
+      walkSprites:
+      - {fileID: -4135208319698962395, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 7206074642371260375, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 2367157543360476410, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 1670968014019776896, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -5177780800536246111, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 4589014923440453008, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 2656965029986385462, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 5141377002674541353, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 6177398227169848664, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: -1045301634787238011, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      sprites:
+      - {fileID: -8313753640310648734, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 8103717872862150549, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      - {fileID: 3832846334555120346, guid: 71d50527776d89645acc2022daf75300, type: 3}
+      attackSprite: 1
+  _gunHolderStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+  _torsoAnimationStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+    _sprites:
+    - {fileID: 1195968685725013789, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 4529979603078696393, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 1254117562665064738, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -6115567960331594357, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -4369014498259919756, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -8222890811848305111, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -8849526923927088409, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 1399251288280031981, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -5641278224649949380, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -8849526923927088409, guid: 71d50527776d89645acc2022daf75300, type: 3}
+  _legAnimationStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
+    _sprites:
+    - {fileID: -5654683972467590171, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -5787472499553124210, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 1978671762864125915, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 1047298426271490186, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 6196913156507013556, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 3470178772514660001, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 5113861700419354382, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 21300000, guid: aaff4ef782c4c854eae20987170c9f36, type: 3}
+    - {fileID: 2124743692300917466, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 7146626405860523045, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -6589164812132394907, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -6736098335563000981, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -1677573747985669541, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: 4374757102128508869, guid: 71d50527776d89645acc2022daf75300, type: 3}
+    - {fileID: -5789237281201320893, guid: 71d50527776d89645acc2022daf75300, type: 3}
+  _stunSetterStats:
+    _animDelay: 0.09
+    _finishOnStop: 1
