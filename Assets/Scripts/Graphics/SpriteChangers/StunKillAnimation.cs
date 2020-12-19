@@ -15,6 +15,7 @@ public class StunKillAnimation : CharacterGraphicsSpriteChanger
     private readonly CoroutineObject _playSoundRoutine;
     private readonly List<StunKillSprites> _stunKillSprites = new List<StunKillSprites>();
     private StunKillSprites _currentInUse;
+    private StunDeathAnimation _victimEnemy;
     
     #region constructors
 
@@ -37,11 +38,12 @@ public class StunKillAnimation : CharacterGraphicsSpriteChanger
     #endregion
 
     public event Action OnStunKillStart;
-    public event Action OnAnimStart;
     public event Action OnStunKillEnd;
 
     public void StartKill(EnemyGraphics enemyGraphics)
     {
+        _victimEnemy = enemyGraphics.StunDeathAnimation;
+
         ChangeKillSprites(enemyGraphics.StunSetter.Status); // player kill sprites type same as enemy death sprites type
 
         SetSprite(_currentInUse.StatusSprites[0]);
@@ -59,8 +61,8 @@ public class StunKillAnimation : CharacterGraphicsSpriteChanger
     private IEnumerator StartKillAnim() // starts kill anim after swipe
     {
         yield return new WaitUntil(() => _screenDrag);
-        
-        OnAnimStart?.Invoke();
+
+        _victimEnemy.StartAnimation();
 
         _playSoundRoutine.Start();
         Launch(cyclesAmount: 1, setFirstSpriteAfter: false, continueIfLaunched: true, onComplete: () => OnStunKillEnd.Invoke());

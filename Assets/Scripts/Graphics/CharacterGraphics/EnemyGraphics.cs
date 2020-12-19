@@ -29,10 +29,10 @@ public class EnemyGraphics : NPCGraphics
         base.Start();
         
         StunDeathAnimation = AddSpriteChanger(() =>
-        StunDeathAnimation.CreateBuilder(this)
-        .SetDelay(_stunDeathAnimStats._animDelay)
-        .SetFinishOnStop(_stunDeathAnimStats._finishOnStop)
-        .Load());
+            StunDeathAnimation.CreateBuilder(this)
+            .SetDelay(_stunDeathAnimStats._animDelay)
+            .SetFinishOnStop(_stunDeathAnimStats._finishOnStop)
+            .Load());
     }
 }
 

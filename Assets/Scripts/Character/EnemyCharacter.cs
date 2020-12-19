@@ -27,14 +27,6 @@ public class EnemyCharacter : NPCCharacter, IDetectorUser
 
     //Pickup gun methods
 
-    public override void TakeDamage(float amount)
-    {
-        //var character = LastHiter.GetComponent<Character>();
-        //if (character && character.CurrentGun is MeleeGun meleeGun && meleeGun.TypeOfHit == MeleeGun.HitType.Stun)
-        //    ChangeStatus(NPCStatus.Stunned);
-        base.TakeDamage(amount);
-    }
-
     protected override bool DestroyEvent()
     {
         EnemyDied?.Invoke();

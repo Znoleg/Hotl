@@ -22,7 +22,6 @@ public class StunDeathAnimation : CharacterGraphicsSpriteChanger
         ChangeDeathSprites(startStatus);
         
         _enemyGraphics.StunSetter.OnStatusChange += ChangeDeathSprites;
-        _player.PlayerGraphics.StunKillAnimation.OnAnimStart += StartAnimation;
     }
 
     public static SpriteChangerBuilder<StunDeathAnimation> CreateBuilder(EnemyGraphics characterGraphics)
@@ -34,14 +33,8 @@ public class StunDeathAnimation : CharacterGraphicsSpriteChanger
 
     public event Action OnEnd;
 
-    public override void Deinitialize()
-    {
-        base.Deinitialize();
-        _player.PlayerGraphics.StunKillAnimation.OnAnimStart -= StartAnimation;
-        _enemyGraphics.StunSetter.OnStatusChange -= ChangeDeathSprites;
-    }
-
-    private void StartAnimation()
+    //must be called only by stunKillAnimation
+    public void StartAnimation() 
     {
         IsWorking = true;
         Launch(cyclesAmount: 1, setFirstSpriteAfter: false, continueIfLaunched: true, () => { OnEnd?.Invoke(); IsWorking = false; });

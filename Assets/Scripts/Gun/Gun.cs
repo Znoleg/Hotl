@@ -18,7 +18,7 @@ public class CameraShakerStats
 }
 
 [RequireComponent(typeof(Collider2D))]
-public abstract class Gun : MonoBehaviour
+public abstract class Gun : MonoBehaviour, IInteractable
 {
     #region fields
     
@@ -70,6 +70,30 @@ public abstract class Gun : MonoBehaviour
         return IsReloaded = true;
     }
 
+    public bool CanInteract(Character character) => character is PlayerCharacter;
+
+    public void Interact(Character character)
+    {
+        Pickup(character);
+    }
+
+
+    public virtual void Drop(IGunHolder holder, Vector2? dropDir = null, float force = 40f)
+    {
+        _collider.enabled = true;
+        StartCoroutine(transform.FindMoveDirection(result => _flyingDir = result));
+        
+        transform.SetParent(holder.Transform.parent, true); // drop // transform.parent = world
+        TurnOnGunSpr();
+        _rigitBody.bodyType = RigidbodyType2D.Dynamic;
+        _collider.isTrigger = false;
+        
+        Vector2 direction = dropDir.HasValue ? dropDir.Value : (Vector2)transform.right;
+        _rigitBody.AddForce(direction * force * _rigitBody.mass, ForceMode2D.Impulse);
+        _rigitBody.DORotate(720f, 2f);
+        StartCoroutine(MakeGunOptainable());
+    }
+
     public virtual void Pickup(IGunHolder holder)
     {
         _rigitBody.velocity = Vector2.zero;
@@ -86,21 +110,6 @@ public abstract class Gun : MonoBehaviour
         OnPick?.Invoke();
     }
 
-    public virtual void Drop(IGunHolder holder)
-    {
-        _collider.enabled = true;
-        StartCoroutine(transform.FindMoveDirection(result => _flyingDir = result));
-        
-        transform.SetParent(holder.Transform.parent, true); // drop // transform.parent = world
-        TurnOnGunSpr();
-        const float force = 40f;
-        _rigitBody.bodyType = RigidbodyType2D.Dynamic;
-        _collider.isTrigger = false;
-        _rigitBody.AddForce(transform.right * force * _rigitBody.mass, ForceMode2D.Impulse);
-        _rigitBody.DORotate(720f, 2f);
-        StartCoroutine(MakeGunOptainable());
-    }
-    
     protected void SetRightPickupPosition(IGunHolder holder)
     {
         transform.SetParent(holder.Transform, true); // pickup
@@ -208,5 +217,6 @@ public abstract class Gun : MonoBehaviour
         TryOffShineAnim(collision);
     }
 
+    
 }
 

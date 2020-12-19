@@ -1,6 +1,7 @@
 ﻿using Assets.Scripts.Character;
 using System;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public enum NPCStatus
 {
@@ -174,11 +175,13 @@ public abstract class Character : DestroyableTarget, IGunHolder
         {
             if (_gun)
             {
-                var gun = Instantiate(_gun, transform.position, transform.rotation);
-                var sr = gun.GetComponent<SpriteRenderer>();
-                sr.enabled = true;
-                sr.sortingOrder = 4;
-                gun.transform.SetParent(LevelLoader.CurrentLevel.transform, true);
+                //var gun = Instantiate(_gun, transform.position, transform.rotation);
+                //var sr = gun.GetComponent<SpriteRenderer>();
+                //sr.enabled = true;
+                //sr.sortingOrder = 4;
+                //gun.transform.SetParent(LevelLoader.CurrentLevel.transform, true);
+                Vector2 fallDir = transform.right.Rotate(Random.Range(0f, 360f));
+                _gun.Drop(this, fallDir, 15f);
             }
         }
 

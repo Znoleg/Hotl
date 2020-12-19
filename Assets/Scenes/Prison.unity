@@ -5431,6 +5431,7 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 401168f9f67c0204387187ed000d1e9c, type: 3}
     volume: 0.5
     pitch: 0.5
+    type: 0
     source: {fileID: 0}
 --- !u!1 &402797188
 GameObject:
@@ -6512,12 +6513,14 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: b9022ab42ce536640a563bbc1284007d, type: 3}
     volume: 0.7
     pitch: 1
+    type: 0
     source: {fileID: 0}
   _musicAfterKill:
     name: Run
     clip: {fileID: 8300000, guid: b9022ab42ce536640a563bbc1284007d, type: 3}
     volume: 0.7
     pitch: 1
+    type: 0
     source: {fileID: 0}
 --- !u!114 &468527264
 MonoBehaviour:

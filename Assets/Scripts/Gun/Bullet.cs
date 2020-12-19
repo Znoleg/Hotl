@@ -21,7 +21,7 @@ public class Bullet : Damager
         Begin(shooter);
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         Move();
     }
@@ -40,7 +40,7 @@ public class Bullet : Damager
     // if shootDir not initialized (Launch() method not called) movement will be 0
     private void Move()
     {
-        Vector3 moveVec = shootDir * moveSpeed * Time.deltaTime;
+        Vector3 moveVec = shootDir * moveSpeed * Time.fixedDeltaTime;
         transform.position += moveVec;
     }
 

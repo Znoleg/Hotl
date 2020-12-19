@@ -33,7 +33,7 @@ public class EnemyMovement : NPCMovement
         {
             _prevTrigger = AdditionalTrigger;
             AdditionalTrigger = false;
-            
+
             AiPath.enabled = false;
         }
         else if (AiPath.enabled == false)
@@ -69,7 +69,6 @@ public abstract class NPCMovement : DetectorMovement
     [SerializeField] private bool _canHear = true;
     private int _currentPathPoint = 0;
     private float _maxSpeed;
-    private Transform rotateTarget;
     private float _shootDistance;
     private float _slowdownDistance;
 
@@ -141,11 +140,22 @@ public abstract class NPCMovement : DetectorMovement
 
     #region private Methods
 
-    private void RotateToTarget(Transform notDestSetterTarget = null)
+    private void RotateToTarget()
     {
-        rotateTarget = notDestSetterTarget == null ? AIDestinationSetter.target : notDestSetterTarget;
-        Vector3 diff = rotateTarget.position - transform.position;
-        float rotationZ = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
+        //var rotateTarget = notDestSetterTarget == null ? AIDestinationSetter.target : notDestSetterTarget;
+        //Vector3 diff = rotateTarget.position - transform.position;
+        //float rotationZ = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
+        //transform.rotation = Quaternion.Euler(0f, 0f, rotationZ);
+        Vector2 lookVector;
+        if (DetectorCharacter.CanSeeTarget)
+        {
+            lookVector = Target.position - transform.position;
+        }
+        else
+        {
+            lookVector = AiPath.desiredVelocity;
+        }
+        float rotationZ = Mathf.Atan2(lookVector.y, lookVector.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0f, 0f, rotationZ);
     }
 
@@ -163,7 +173,7 @@ public abstract class NPCMovement : DetectorMovement
         var step = _maxSpeed * Time.deltaTime;
         moveVelocity = Vector2.MoveTowards(transform.position, currentPoint.position, step);
         transform.position = moveVelocity;
-        RotateToTarget(currentPoint.transform);
+        RotateToTarget();
     }
     #endregion
 
@@ -174,7 +184,7 @@ public abstract class NPCMovement : DetectorMovement
         HearCheck();
 
         var walkSound = collision.transform.GetComponent<WalkSound>();
-        
+
         if (walkSound) // can be Optimized
         {
             if ((this is EnemyMovement) && walkSound.GetComponentInParent<EnemyMovement>()) return;
@@ -200,9 +210,11 @@ public abstract class DetectorMovement : ObjectMovement
     public bool? AdditionalTrigger { get; set; }
     public AIPath AiPath { get; private set; }
     protected TransformDetector TransformDetector { get; private set; }
+    public Transform Target => AIDestinationSetter.target.transform;
     public AIDestinationSetter AIDestinationSetter { get; private set; }
     protected DetectorCharacter DetectorCharacter { get; private set; }
     public override bool IsMoving => base.IsMoving && DetectorCharacter.CurrentStatus != NPCStatus.Stunned;
+
 
     protected override void Start()
     {
@@ -218,8 +230,8 @@ public abstract class DetectorMovement : ObjectMovement
             AdditionalTrigger = _triggeredFromStart;
             if (AIDestinationSetter.target is null) AIDestinationSetter.target = DetectorCharacter.DetectingTargets.First();
         }
-        
-        
+
+
         //Utils.WaitCoroutine(() => DetectorCharacter.CharacterGraphics.StunSetter.OnStunEnd += OnStunEnd, 0.1f);
     }
 
@@ -230,14 +242,14 @@ public abstract class DetectorMovement : ObjectMovement
         if (DetectorCharacter.CurrentStatus == NPCStatus.Stunned) return false;
         if (AdditionalTrigger.HasValue) return AdditionalTrigger.Value;
 
-        var detectedTargets = TransformDetector.Detect().ToArray();  
+        var detectedTargets = TransformDetector.Detect().ToArray();
 
         if (AIDestinationSetter.target && detectedTargets.Contains(AIDestinationSetter.target))
         {
             //NPCStatusChanger.ChangeStatus(_detercorCharacter, NPCStatus.Raged);
             return true;
         }
-        
+
         if (detectedTargets.Any())
         {
             DetectorCharacter.ChangeStatus(NPCStatus.Raged);
@@ -273,7 +285,7 @@ public abstract class DetectorMovement : ObjectMovement
                 AIDestinationSetter.target = _emptyCreated.transform;
                 return true;
             }
-            
+
         }
         if (DetectorCharacter.CurrentStatus == NPCStatus.Raged) DetectorCharacter.ChangeStatus(NPCStatus.Walk);
         return false;
