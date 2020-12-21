@@ -6,7 +6,6 @@ public class MinimapUI : GroupedUI
     [SerializeField] private RectTransform _imageUI;
     [SerializeField] private float _aspectRatio = 1f;
     [SerializeField] [Range(0f, 100f)] private int _offsetPercentage = 10;
-    private Vector3 _rectRealSize;
 
     private MinMaxPair _boundsX;
     private MinMaxPair _boundsY;
@@ -35,9 +34,9 @@ public class MinimapUI : GroupedUI
 
     private void Start()
     {
-        _rectRealSize = RectTransformUtility.CalculateRelativeRectTransformBounds(_rect).size;
-        var width = _rectRealSize.x;
-        var height = _rectRealSize.y;
+        var rectRealSize = ScreenManager.Instance.RealScreenSize;
+        var width = rectRealSize.x;
+        var height = rectRealSize.y;
         var ratio = width / height;
         var minimapSizeRatio = 1f - _offsetPercentage * 2 / 100f;
         float minimapWidth;
@@ -65,10 +64,10 @@ public class MinimapUI : GroupedUI
         _imageUI.SetTop(heightOffset);
         _imageUI.SetBottom(heightOffset);
 
-        _rectRealSize = RectTransformUtility.CalculateRelativeRectTransformBounds(_rect).size;
+        rectRealSize = RectTransformUtility.CalculateRelativeRectTransformBounds(_rect).size;
         var xScale = UIManager.Instance.CanvasToRealResolutionScale.x;
         var yScale = UIManager.Instance.CanvasToRealResolutionScale.y;
-        _sizeInScreen = new Vector2(_rectRealSize.x * xScale, _rectRealSize.y * yScale);
+        _sizeInScreen = new Vector2(rectRealSize.x * xScale, rectRealSize.y * yScale);
         _boundsX = new MinMaxPair(_rect.offsetMin.x * xScale, _rect.offsetMin.x * xScale + _sizeInScreen.x);
         _boundsY = new MinMaxPair(_rect.offsetMin.y * yScale, _rect.offsetMin.y * yScale + _sizeInScreen.y);
     }

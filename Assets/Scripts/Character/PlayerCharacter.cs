@@ -134,7 +134,6 @@ public class PlayerCharacter : Character
     {
         base.Update();
         RotateByJoy();
-        Debug.Log(transform.right);
         var overlappedColliders = Physics2D.OverlapCircleAll(transform.position, _pickRadius);
         if (TryGetClosestGun(overlappedColliders, out var foundGun))
         {

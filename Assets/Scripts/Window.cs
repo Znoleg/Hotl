@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
-public class Vector2Percent
+public struct Vector2Percent
 {
     [Range(0.0f, 100.0f)]
     public float X, Y;

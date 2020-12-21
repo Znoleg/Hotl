@@ -14,7 +14,7 @@ public class JoystickPositionHandler : MonoBehaviour
     [SerializeField] private List<RectTransform> _leftPositions = new List<RectTransform>();
     [SerializeField] private List<RectTransform> _rightPosition = new List<RectTransform>();
     [SerializeField] private GameObject _shootButtonUI;
-    [SerializeField] Transform[] _positionsToIgnore;
+    [SerializeField] private RectTransform[] _positionsToIgnore;
     [SerializeField] private Joystick _leftJoy;
     [SerializeField] private Joystick _rightJoy;
     [SerializeField] private List<Animator> _animators = new List<Animator>();
@@ -127,8 +127,13 @@ public class JoystickPositionHandler : MonoBehaviour
                 }
                 else
                 {
-                    foreach (var ignorePos in _positionsToIgnore)
-                        if ((inputPos - (Vector2)ignorePos.position).magnitude < _ignoreMagnitude) return;
+                    //foreach (var ignorePos in _positionsToIgnore)
+                    //    if ((inputPos - (Vector2)ignorePos.position).magnitude < _ignoreMagnitude) return;
+                    foreach (var ignoreElem in _positionsToIgnore)
+                    {
+                        Debug.Log(ignoreElem.position + ignoreElem.transform.position);
+                        if (RectTransformUtility.RectangleContainsScreenPoint(ignoreElem, inputPos)) return;
+                    }
                     foreach (RectTransform rect in _rightPosition) rect.transform.position = inputPos;
                 }
             }
